@@ -95,12 +95,10 @@ HLT
 
 ## Multiplication alp 
 ```
-org 100h
 Mov AL,74H
 MOV BL,69H
 MUL BL
 HLT
-ret
 ```
  ## Output  
 ![image](https://github.com/user-attachments/assets/6e1c7b85-a922-4e37-8a90-ae6c2f4882e0)
